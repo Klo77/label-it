@@ -1,0 +1,47 @@
+body{
+    background-color: #F7F8F9;
+    /* display:flexbox;
+    align-items: center;
+    justify-content: center; */
+   
+}
+
+.logoImage{
+    display: block;
+    width: 160px;
+    margin: 20px auto;
+}
+.container{
+    max-width: 500px;
+    
+}
+form{
+    background-color: white;
+    border-radius: 10px;
+    /* box-shadow: 5px 5px 5px  rgba(0, 0, 0, 0.2);  */
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.fields{
+    border-color: #0084BD;
+    border-radius: 8px;
+    background-color:#F7F8F9 ; 
+    font-size: 14px;
+}
+
+.forgetLink{
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#signInButton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 100%;
+}
+.signupLink a{
+    text-decoration: none;
+}
